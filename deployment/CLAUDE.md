@@ -14,7 +14,7 @@ The client has a single env variable that points it to the game server.
 
 Important: deployment steps through the initial setup first (creating accounts, setting secrets etc.) You can answer questions about that using the deployment steps in the root README.md. When I ask you to deploy, however, stick to the steps detailed here.
 
-## Enviroment setup
+## Environment setup
 
 - Game server uses secrets set in `.env.cloud`
 - Bot uses secrets set in `.env.bot.cloud`
